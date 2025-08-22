@@ -1,4 +1,5 @@
 Website Aplikasi POS EasyKasir, berbasis laravel.
+
 User:
 Admin: admin@easykasir.com
 pass: admin
